@@ -1,12 +1,12 @@
 # Telco Customer Churn — End-to-End ML Product
 
-An end-to-end machine-learning product for identifying at-risk telecom customers before they leave — from raw data exploration through to a deployed interactive prediction app. Built on the IBM Telco Customer Churn dataset (sourced via Kaggle PS S6E3, ~594K synthetic training rows).
+An end-to-end machine-learning product for identifying at-risk telecom customers before they leave: from raw data exploration through to a deployed interactive prediction app. Built on the IBM Telco Customer Churn dataset (sourced via Kaggle PS S6E3, ~594K synthetic training rows).
 
 > **Customer acquisition costs 5–25× more than retention.** This project quantifies exactly what each customer is worth to flag — and what it costs to miss them.
 
 ## Live Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://telco-customer-churn-end-to-end-ml.streamlit.app/)
 
 *After cloning and training the model locally, deploy to [Streamlit Community Cloud](https://streamlit.io/cloud) for free — see [Quick Start](#quick-start) below.*
 
